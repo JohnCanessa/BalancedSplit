@@ -10,7 +10,7 @@ Will check the LeetCode problem next.
 If interested in my approach and comments I invite you to visit the following
 post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/15/balanced-split/
 
 Keep on reading and experiemnting. It is the best way to learn.
 
